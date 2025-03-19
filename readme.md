@@ -23,6 +23,7 @@
 <ul>
 <li>Escuela de Educación Secundaria Técnica N°6</li>
 <li>UNLaM - UNSaM – Olimpiada Informática Argentina</li>
+<li>HackerRank – Problem Solving Basic and Intermediate</li>
 <li>Platzi - English Intermediate Course</li>
 <li>Coderhouse - Platzi – Stack MERN</li>
 </ul>
