@@ -1,4 +1,3 @@
-
 <h1 align="center">¡Hola 👋! Soy Santiago Morillo 👨🏻‍💻</h1>
 
 
@@ -22,7 +21,15 @@
 
 <h2><b>📚 Educación</b></h2>
 <ul>
-<li>Platzi – English Intermediate Course (B1)</li>
-<li>Coderhouse – Frontend</li>
 <li>Escuela de Educación Secundaria Técnica N°6</li>
+<li>UNLaM - UNSaM – Olimpiada Informática Argentina</li>
+<li>Platzi - English Intermediate Course</li>
+<li>Coderhouse - Platzi – Stack MERN</li>
+</ul>
+
+<h2><b>🎖️Reconocimientos</b></h2>
+
+<ul>
+<li>Noveno puesto en la Olimpiada Informática Argentina a nivel nacional (2024)</li>
+<li>Tercer puesto en la Olimpiada Informática Argentina a nivel regional (2024)</li>
 </ul>
