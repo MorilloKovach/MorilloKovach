@@ -33,3 +33,10 @@
 <li>Noveno puesto en la Olimpiada Informática Argentina a nivel nacional (2024)</li>
 <li>Tercer puesto en la Olimpiada Informática Argentina a nivel regional (2024)</li>
 </ul>
+
+<h2><b>⭐Proyectos</b></h2>
+
+<ul>
+<li><a href="https://tecnica6lam.vercel.app/">Proyecto Institucional de la Técnica 6 (2023)</a></li>
+<li><a href="https://halloween-ingles.vercel.app/">Proyecto de Halloween para el 31 de Octubre (2024)</a></li>
+</ul>
