@@ -61,10 +61,11 @@
 ### 🎖️ Reconocimientos & Educación
 
 **🏆 Logros Destacados:**
-- **9° Puesto Nacional** - Olimpiada Informática Argentina (2024)
-- **8° Puesto Nacional** - Olimpiada Informática Argentina (2025)
 - **3° Puesto Regional** - Olimpiada Informática Argentina (2024)
 - **2° Puesto Regional** - Olimpiada Informática Argentina (2025)
+- **9° Puesto Nacional** - Olimpiada Informática Argentina (2024)
+- **8° Puesto Nacional** - Olimpiada Informática Argentina (2025)
+
 
 **📚 Formación Académica y Cursos:**
 - **Educación Secundaria:** Escuela de Educación Secundaria Técnica N°6 *Técnico en Informática Personal y Profesional*
