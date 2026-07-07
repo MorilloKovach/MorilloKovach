@@ -77,8 +77,6 @@
 ---
 
 ### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MorilloKovach&show_icons=true&theme=radium&locale=es" alt="Estadísticas de Santiago" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorilloKovach&layout=compact&theme=radium" alt="Lenguajes más usados" height="150"/>
-</p>
+<a href="https://github.com/MorilloKovach">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorilloKovach&theme=dracula" />
+</a>
