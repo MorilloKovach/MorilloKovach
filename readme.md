@@ -4,7 +4,7 @@
 <img src="./otrapalcv.png" alt="Foto CV de Santiago" height="200" width="200" align="center" style="border-radius: 50%;"/>
 </p>
 
-<h2 align="center">Desarrollador Web Full Stack && Futuro Técnico en Informática <img src="./imagen-react.jpeg" height="20" width="20"/></h2>
+<h2 align="center">Desarrollador Web Full Stack, Técnico en Informática && futuro Ingeniero en Informática <img src="./imagen-react.jpeg" height="20" width="20"/></h2>
 
 <p align="center">
   <a href="mailto:s.morillok@gmail.com">
